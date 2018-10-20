@@ -20,3 +20,5 @@ user_logs_v2.csv
 user_logs*.csv
 membership_records.csv
 members_pre.csv
+Test.ipynb
+user_logs_initial.csv
