@@ -22,3 +22,8 @@ membership_records.csv
 members_pre.csv
 Test.ipynb
 user_logs_initial.csv
+analysis_data.csv
+transactions_log*.csv
+test_classification.ipynb
+train_v2_final_201702.csv
+transaction_logs_initial.csv
