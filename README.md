@@ -1,4 +1,4 @@
-# Churn Prediction: Online Music Streaming Service
+# Churn Prediction: Music Streaming Service
 
 ## Abstract
 
