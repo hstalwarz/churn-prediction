@@ -1,4 +1,5 @@
 WSDMChurnLabeller.scala
+machine_learning_algorithms
 members_v3.csv.7z
 sample_submission_v2.csv.7z
 sample_submission_zero.csv.7z
@@ -27,3 +28,4 @@ transactions_log*.csv
 test_classification.ipynb
 train_v2_final_201702.csv
 transaction_logs_initial.csv
+dataset.csv
